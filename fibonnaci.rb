@@ -89,7 +89,6 @@ fibs(7)
 
 def fibie(num,k = 0, array = [0,1])
 if num == array.size
-#for i in 0.upto(num-3)
 return array
 else
 c = array[k] + array[k.next]
