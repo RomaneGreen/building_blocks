@@ -8,3 +8,5 @@ The cesar_cypher was pretty familiar, I had did it about a year ago in javascrip
 
 The merge sort method came off as a bit odd I ended up using a recursive methodology but after looking at other methods my 
 merge sort did not follow conventional methods but used less code
+
+![Merge Sort GIF](/Merge-sort-example-300px.gif)
